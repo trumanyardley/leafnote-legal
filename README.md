@@ -1,6 +1,6 @@
 # Privacy Policy for Leafnote
 
-**Last updated: March 9, 2026**
+**Last updated: March 13, 2026**
 
 This Privacy Policy describes how Leafnote ("the App", "we", "us", or "our") handles your information. We are committed to being transparent about our practices.
 
@@ -102,8 +102,8 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**[Your Name or Company Name]**
-**[Your Contact Email]**
+**Truman Yardley**
+**leafnote.contact@gmail.com**
 
 ---
 
